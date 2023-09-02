@@ -37,7 +37,7 @@ void Menu_Operaciones()
     {
     case SUMA:
         cout<<"Ingresa dato 1: "<<endl<<"Ingresa dato 2: "<<endl;
-        cin>>n1, n2;
+        cin>>n1>>n2;
         cout<<"El resultado es: "<<suma(n1,n2)<<endl;
         break;
     
