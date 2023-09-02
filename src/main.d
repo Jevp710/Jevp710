@@ -1,1 +1,1 @@
-src/main.o: src/main.cpp src/suma.h
+src/main.o: src/main.cpp src/Menu_Operaciones.h
